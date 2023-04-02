@@ -1,0 +1,7 @@
+{
+    "invalid_id": "ID inválido!",
+    "id_required": "Você precisa digitar o ID do Player!",
+    "not_horse_selected": "Você não possui nenhum cavalo fora do estábulo!",
+    "share_saddlebag_success": "Alforge compartilhada com o ID: %s",
+    "share_saddlebag_error": "O Id %s não existe."
+}
