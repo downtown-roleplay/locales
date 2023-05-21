@@ -1,6 +1,7 @@
 {
     "anti_flood_error": "[Anti-Flood]: Por favor, aguarde antes de enviar mais comandos",
     "language": "Português Brasil",
+    "server_restarting": "O servidor está prestes a reiniciar. Por favor, reconecte em alguns minutos.",
     "identifiers_not_found": "Não foi possível verificar seus identificadores",
     "rockstar_license_not_found": "Não foi possível identificar seu Rockstar License. Verifique se sua conta Rockstar está vinculada a sua conta do Cfx.re nas configurações do RedM.",
     "discord_id_not_found": "Não foi possível identificar seu Discord Id. Verifique se o seu Discord está vinculado a sua conta do Cfx.re nas configurações do RedM.",
