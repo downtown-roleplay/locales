@@ -6,5 +6,6 @@
     "share_saddlebag_error": "O Id %s não existe.",
     "horse_not_has_saddle": "Este cavalo não possui alforge!",
     "no_permission_saddlebag": "Você não possui permissão para abrir este alforge!",
-    "name_already_used": "Você já possui um cavalo com este nome!"
+    "name_already_used": "Você já possui um cavalo com este nome!",
+    "open_secondary_inventory": "Abrir alforge do Cavalo"
 }
