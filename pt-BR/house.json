@@ -1,0 +1,18 @@
+{
+    "home": "Casa",
+    "broker":"Corretor",
+    "locked": "Porta Trancada",
+    "unlocked": "Porta Aberta",
+    "noHome": "Você não é proprietário de nenhuma casa",
+    "haveHouse": "Você já possui uma casa!",
+    "noMoney": "Você não tem dinheiro suficiente!",
+    "housebuy":"Casa adquirida!",
+    "housesell":"Casa vendida!",
+    "tax":"Imposto de terreno adicionado!",
+    "havekey": "A pessoa já tem chave de outra casa!",
+    "addguest":"Adicione convidados à sua casa!",
+    "validNumber": "Você deve inserir um número valido!",
+    "maxmoney":"Você pode adicionar no máximo $",
+    "setmoney":"Dinheiro do alguel esta em $",
+    "nokeys": "Não possui as chaves da casa"
+}
