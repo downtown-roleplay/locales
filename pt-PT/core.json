@@ -7,6 +7,6 @@
     "discord_id_not_found": "Não foi possível identificar seu Discord Id. Verifique se o seu Discord está vinculado a sua conta do Cfx.re nas configurações do RedM.",
     "credentials_id_not_found": "Falha ao recuperar ou criar uma credencial. Contate a administração!",
     "player_banned": "Você está banido.",
-    "player_is_not_allowlisted": "Você não possui Allowlist no servidor, envie seu AllowlistId [%s] para a administração.",
+    "player_is_not_allowlisted": "Sua Allowlist não está liberada no servidor, libere sua Allowlist ID [%s] na sala de #passaport em nosso discord discord.gg/downtown.",
     "user_id_not_found": "Falha ao recuperar ou criar seu user id. Contate a administração!"
 }
